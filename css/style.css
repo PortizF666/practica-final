@@ -75,6 +75,7 @@ a:hover,
 a:focus {
 	text-decoration: none;
 	outline: none;
+	color: aquamarine;
 }
 
 ul,
@@ -174,7 +175,7 @@ ol {
 	min-width: 186px;
 	padding: 17px 25px;
 	border-radius: 14px;
-	background: #200545;
+	background: magenta;
 	color: #fff;
 	line-height: 1;
 	cursor: pointer;
@@ -487,6 +488,7 @@ ol {
 	display: -webkit-box;
 	display: -ms-flexbox;
 	display: flex;
+
 }
 
 .social a {
@@ -497,7 +499,7 @@ ol {
 	width: 32px;
 	height: 32px;
 	color: #fff;
-	background: #491f70;
+	background: magenta;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 	align-items: center;
@@ -558,6 +560,7 @@ ol {
 	-webkit-transition: all 0.4s;
 	-o-transition: all 0.4s;
 	transition: all 0.4s;
+	color: aquamarine;
 }
 
 .main-menu li a:hover {
@@ -700,7 +703,7 @@ ol {
 	display: inline-flex;
 	width: 87px;
 	height: 87px;
-	background: #eb2b63;
+	background: lightblue;
 	font-size: 43px;
 	color: #fff;
 	-webkit-box-align: center;
@@ -983,7 +986,7 @@ ol {
 }
 
 .footer-top-section {
-	background: #200545;
+	background: darkslateblue;
 }
 
 .footer-widget .fw-title {
@@ -1003,7 +1006,7 @@ ol {
 	display: block;
 	margin-bottom: 15px;
 	font-size: 14px;
-	color: #fff;
+	color: aquamarine;
 	opacity: 0.25;
 }
 
@@ -1059,7 +1062,8 @@ ol {
 ---------------------*/
 
 .footer-section {
-	background: #1b043b;
+	
+background: darkslateblue;
 	overflow: hidden;
 	padding: 20px 0px;
 }
